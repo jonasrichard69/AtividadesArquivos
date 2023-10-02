@@ -1,0 +1,3 @@
+copiar abcd
+
+//nao copiar efgh
